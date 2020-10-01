@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# include path to config file in gitignore
+config/config.js
+
+# include path to config file in gitignore (root level file)
+anotherconfig.js
+
+# or you can include the entire folder
+# config

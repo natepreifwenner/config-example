@@ -1,0 +1,4 @@
+module.exports = {
+    superSecrectThing: "<ID>",
+    superDuperSecrectThing: "<ID>"
+}
